@@ -1,4 +1,4 @@
-# Curated-Metabarcoding-Database-for-Marine-Fish-in-Indonesia
+# Curated Metabarcoding Database for Marine Fish in Indonesia
 
 This curated reference database is based on the 12S MiFish region and includes only marine fish species (Actinopteri and Chondrichthyes) found in Indonesian waters, specifically designed for use in eDNA and metabarcoding studies. We provide two versions of the database:
 
