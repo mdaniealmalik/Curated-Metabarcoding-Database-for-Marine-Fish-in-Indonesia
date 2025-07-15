@@ -10,7 +10,7 @@ The workflow used to construct these curated databases is illustrated in the fig
 
 ![workflow](Workflow_analysis.jpg)
 
-Acknowledgments 
+Acknowledgments:
 
 This research was funded by the Sophie Danforth Conservation Biology Fund.
 
